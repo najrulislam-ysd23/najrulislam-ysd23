@@ -1,13 +1,9 @@
 <!-- Banner -->
-<div class="banner">
-        <video style="z-index: -1" autoplay loop muted plays-inline class="banner-video">
-            <source src="video/git-banner.mp4" type="video/mp4">
-        </video>
+<h1 align="center">
+<img z-index=-1 width=90% src="./images/banner1.jfif">
+</h1>
 
-        <div class="content">
-            <h1>Welcome to my github</h1>
-        </div>     
-</div>
+
 
 ## Hi there! I am Mohammad Najrul Islam 👋
 
@@ -34,8 +30,24 @@ Here are some ideas to get you started:
 -->
 
 ## 💬 Ask me about
+- **Topics**: Software and web development, Database design, Git-github source control, Redmine
+- **Technologies**: C++, Java, Javascript, Mongo DB, NodeJS, SQL server, Oracle
 
 ## 📫 How to reach me:
+<p align="center">
+  <a href="mailto:najrul.islam@bjitacademy.com">
+    <img style={margin-right: 100px} src="./images/email.png" alt="Email" width="50" height="50">
+  </a>
+        
+  <a href="skype:live:.cid.17cbf04b55ae81e3?chat">
+    <img style={margin-right: 10px} src="./images/skype.png" alt="Skype" width="50">
+  </a>
+</p>
+<p align="center">
+  
+</p>
+
 ## 😄 Pronouns:
+He/His/Him
 ## ⚡ Fun fact:
 
