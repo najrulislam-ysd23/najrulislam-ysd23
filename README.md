@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 - **HSC**: Dhaka City College
 
 ## 💻 Projects
-- **project1**: 
-- **project2**:
+- **Travel Blog**: A CRUD website based on html, css and php. One can make account and read, upload and update blogs about his tours.  
+- **AUST-Inside**: A java based software to exstablish communication between the faculties and the students of my university (AUST). 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) starting -->
 ## 💻 Tech Stack:
