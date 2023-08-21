@@ -6,6 +6,7 @@
 
 
 ## Hi there! I am Mohammad Najrul Islam 👋
+WELCOME to my github profile.
 
 #### Trainee Software Enginner (MERN) @ BJIT Ltd.
 <p> As a Trainee Software Engineer, I embarked on a dynamic learning journey to gain practical experience and insight into the world of software development. </p>
@@ -29,25 +30,32 @@ Here are some ideas to get you started:
 ## 🤔 I’m looking for help with
 -->
 
+## 🎓 Educational Background
+- **Bachelor's**: Computer Science and Engineering from Ahsanullah University of Science and Technology
+- **HSC**: Dhaka City College
+
+## 💻 Projects
+- **project1**: 
+- **project2**: 
+
 ## 💬 Ask me about
 - **Topics**: Software and web development, Database design, Git-github source control, Redmine
 - **Technologies**: C++, Java, Javascript, Mongo DB, NodeJS, SQL server, Oracle
 
-## 📫 How to reach me:
-<p align="center">
-  <a href="mailto:najrul.islam@bjitacademy.com">
-    <img style={margin-right: 100px} src="./images/email.png" alt="Email" width="50" height="50">
+## 📬 How to reach me:
+<p align="left">
+  <a href="mailto:najrul.islam@bjitacademy.com" style="margin-right: 20px;">
+    <img src="./images/email.png" alt="Email" width="40">
   </a>
-        
+    
   <a href="skype:live:.cid.17cbf04b55ae81e3?chat">
-    <img style={margin-right: 10px} src="./images/skype.png" alt="Skype" width="50">
+    <img src="./images/skype.png" alt="Skype" width="40">
   </a>
-</p>
-<p align="center">
-  
 </p>
 
 ## 😄 Pronouns:
 He/His/Him
+<!--
 ## ⚡ Fun fact:
+-->
 
