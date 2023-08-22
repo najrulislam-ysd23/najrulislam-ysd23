@@ -49,6 +49,10 @@ Here are some ideas to get you started:
 - **Topics**: Software and web development, Database design, Git-github source control, Redmine
 - **Technologies**: C++, Java, Javascript, Mongo DB, NodeJS, SQL server, Oracle
 
+## See my resume
+<a href="https://najrulislam-ysd23.github.io/resume/" style="margin-right: 20px;">Resume of Mohammad Najrul Islam</a>
+
+
 ## 📬 How to reach me:
 <p align="left">
   <a href="mailto:najrul.islam@bjitacademy.com" style="margin-right: 20px;">
